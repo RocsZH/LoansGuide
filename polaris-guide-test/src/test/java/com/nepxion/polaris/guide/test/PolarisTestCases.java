@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.web.client.TestRestTemplate;
 
-import com.nepxion.discovery.plugin.test.annotation.DTestConfig;
+import com.nepxion.discovery.plugin.test.automation.annotation.DTestConfig;
 
 public class PolarisTestCases {
     private static final Logger LOG = LoggerFactory.getLogger(PolarisTestCases.class);
