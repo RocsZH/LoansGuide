@@ -7,6 +7,8 @@
 
 [![Polaris DOC PDF](https://img.shields.io/badge/Polaris%20Doc-PDF-brightgreen?logo=Adobe%20Acrobat%20Reader)](http://nepxion.gitee.io/docs/link-doc/polaris-pdf.html)  [![Polaris DOC HTML](https://img.shields.io/badge/Polaris%20Doc-HTML-brightgreen?logo=Microsoft%20Edge)](http://nepxion.gitee.io/docs/link-doc/polaris-html.html)
 
+![](http://nepxion.gitee.io/docs/icon-doc/star3.png) 如果您觉得本框架具有一定的参考价值和帮助，请不吝在页面右上角 [**Star**] 一下
+
 ![](http://nepxion.gitee.io/docs/polaris-doc/Logo64.png) Polaris【北极星】企业级云原生微服务框架
 
 ① Polaris【北极星】企业级云原生微服务框架文档
